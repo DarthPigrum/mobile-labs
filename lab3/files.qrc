@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>student.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>movies/Posters/Poster_01.jpg</file>
+        <file>movies/Posters/Poster_02.jpg</file>
+        <file>movies/Posters/Poster_03.jpg</file>
+        <file>movies/Posters/Poster_05.jpg</file>
+        <file>movies/Posters/Poster_06.jpg</file>
+        <file>movies/Posters/Poster_07.jpg</file>
+        <file>movies/Posters/Poster_08.jpg</file>
+        <file>movies/Posters/Poster_10.jpg</file>
+        <file>movies/MoviesList.txt</file>
+        <file>movies/Posters/NoPoster.jpg</file>
+    </qresource>
+</RCC>
